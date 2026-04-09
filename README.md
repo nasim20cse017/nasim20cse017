@@ -42,7 +42,10 @@ Hi! I’m Nasim, a passionate **Full Stack MERN Developer** building interactive
 | Project | Description | Tech Stack | Live Link |
 |---------|-------------|------------|-----------|
 | Tourism Website | A full-stack tourism site with booking & interactive map | React, Node.js, MongoDB, Tailwind CSS | [Live Demo](#) |
-| Portfolio Website | Personal portfolio to showcase projects & skills | React, Next.js, Tailwind CSS | [Live Demo](#) |
+| DigiTools - Premium Digital Tools | DigiTools is a high-performance, modern e-commerce landing page and product management system designed for creators, professionals, and businesses.
+
+It delivers a seamless experience for browsing premium digital assets, managing a shopping cart, and exploring transparent pricing plans — all wrapped in a sleek, responsive UI. | React.js, Tailwind CSS, DaisyUI, Lucide React & React Icons, React-Toastify, Google Fonts (Manrope)
+ | [Live Demo](#) |
 
 ---
 
