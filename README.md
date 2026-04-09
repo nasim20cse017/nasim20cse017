@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co.com/5WRgvbhc/banner.png)
+![Banner](https://i.ibb.co.com/ZRGjLv9S/Brown-and-White-Simple-Linkedin-Article-Cover-Image.png)
 
 <!-- Typing Animation -->
 <p align="center">
