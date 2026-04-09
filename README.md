@@ -3,7 +3,7 @@
 <!--
 **nasim20cse017/nasim20<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/XYZ/banner-image.jpg" alt="Banner" width="100%" />
+  <img src="[https://i.ibb.co/XYZ/banner-image.jpg](https://i.ibb.co.com/svVdQ893/Brown-and-White-Simple-Linkedin-Article-Cover-Image.png)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Md. Nasim Sarkar</h1>
