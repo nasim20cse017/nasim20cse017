@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **nasim20cse017/nasim20<!-- Banner Image -->
