@@ -1,91 +1,112 @@
+<!-- Banner -->
+![Banner](https://i.ibb.co.com/5WRgvbhc/banner.png)
 
-<!--
-**nasim20cse017/nasim20<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co.com/svVdQ893/Brown-and-White-Simple-Linkedin-Article-Cover-Image.png" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Md. Nasim Sarkar</h1>
-<h3 align="center">Full Stack MERN Developer | CSE Graduate, University of Barishal</h3>
+# 👋 Hi, I'm Md. Nasim Sarkar  
+### 💻 Full Stack MERN Developer | CSE Graduate  
 
 ---
 
-## About Me
-Hi! I’m Nasim, a passionate **Full Stack MERN Developer** building interactive and scalable web apps. I enjoy learning new technologies and contributing to open-source projects.  
+## 🚀 About Me
 
-**Current Activities:**
-- Exploring **Next.js** and server-side rendering  
-- Working on a **Tourism Website** project  
-- Learning **MongoDB & Tailwind CSS**  
-- Contributing to coding communities and GitHub projects  
+I am a passionate **Full Stack MERN Developer** and a **Computer Science & Engineering graduate from University of Barishal**.  
 
----
+I love building modern web applications, exploring new technologies, and solving real-world problems using code.  
 
-## Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
-</p>
+- 🎯 Goal: Become a professional MERN Stack Developer  
+- 🧠 Strong interest in **AI, NLP & Web Technologies**  
+- 🤝 Experienced in **teamwork, leadership & community engagement**  
 
 ---
 
-## Projects
-| Project | Description | Tech Stack | Live Link |
-|---------|-------------|------------|-----------|
-| Tourism Website | A full-stack tourism site with booking & interactive map | React, Node.js, MongoDB, Tailwind CSS | [Live Demo](#) |
-| DigiTools - Premium Digital Tools | DigiTools is a high-performance, modern e-commerce landing page and product management system designed for creators, professionals, and businesses.
+## 🔥 Current Activities
 
-It delivers a seamless experience for browsing premium digital assets, managing a shopping cart, and exploring transparent pricing plans — all wrapped in a sleek, responsive UI. | React.js, Tailwind CSS, DaisyUI, Lucide React & React Icons, React-Toastify, Google Fonts (Manrope)
- | [Live Demo](#) |
+- 🌱 I’m currently learning **Next.js & Advanced Backend Development**  
+- 💻 I’m working on **full-stack MERN projects**  
+- 🤖 Exploring **AI & NLP (Bangla Text Detection)**  
+- 🚀 Building modern UI with **React & Tailwind CSS**  
 
 ---
 
-## Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.tiktok.com/@yourusername">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://www.snapchat.com/add/yourusername">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
-  </a>
+## 🛠️ Skills
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb" />
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,git,github,vscode" />
+
 </p>
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+## 🌐 Social Links
+
+<p align="left">
+
+<!-- GitHub -->
+<a href="https://github.com/nasim20cse017" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<!-- Facebook 1 -->
+<a href="https://facebook.com/yourprofile1" target="_blank">
+<img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
+</a>
+
+<!-- Facebook 2 -->
+<a href="https://facebook.com/yourprofile2" target="_blank">
+<img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
+</a>
+
 </p>
 
 ---
 
-## Fun Fact
-🚀 I love exploring new tech stacks and contributing to open-source. Always learning, always coding!cse017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 📚 Book Vibe
+🔗 [Live](https://nasim-book-vibe.netlify.app/) | [GitHub](https://github.com/nasim20cse017/book-vibe.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Book browsing with detailed view  
+- ✅ Mark as Read & Wishlist system  
+- ⚡ Built with React, Tailwind CSS, DaisyUI  
+
+---
+
+### 🚀 DigiTools
+🔗 [Live](https://nasim-sarkar-digitools.netlify.app/) | [GitHub](https://github.com/nasim20cse017/DigiTools.git)
+
+- 🛒 Dynamic product system  
+- 📊 Pricing & cart functionality  
+- ⚡ Modern UI with React & Tailwind  
+
+---
+
+### 🏏 BPL DREAM 11
+🔗 [Live](https://nasim-bpl-dream11.netlify.app/) | [GitHub](https://github.com/nasim20cse017/bpl-dream-11.git)
+
+- 🏏 Player selection system  
+- 💰 Coin budget tracking  
+- ⚡ Interactive UI & state management  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nasim20cse017&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasim20cse017&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Fun Fact
+
+🚀 I believe in **learning by building** and turning ideas into real-world applications.
+
+---
